@@ -2,3 +2,5 @@ Step 1: Order Pizza
 Step 2: Pay for Pizza
 Step 3: Wait for Delivery
 Step 4: Eat your Pizza
+Step 5: Grab a drink
+Step 6: Tip the driver on the app
